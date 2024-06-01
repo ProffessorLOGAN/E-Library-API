@@ -1,0 +1,24 @@
+{
+  "name": "e-library-api",
+  "version": "1.0.0",
+  "description": "\"This is E library api project\"",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.ts"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "api",
+    "nodemon",
+    "typescript"
+  ],
+  "author": "ProffessorLOGAN <keshritansen@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.13.0",
+    "nodemon": "^3.1.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
