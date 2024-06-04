@@ -14,7 +14,7 @@ const upload = multer({
 });
 //routes
 bookRouter.post(
-  "/register",
+  "/",
   upload.fields([
     {
       name: "coverImage",
